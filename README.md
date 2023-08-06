@@ -16,8 +16,8 @@ This report offers an overview of the company's sales performance, focusing on t
       - *Top 10 Products (2021 vs. 2020):* A comparison of the top 10 products based on the percentage change in net sales between
       the years 2021 and 2020.
       
-      - *Division-Level Growth (2021 vs. 2020):* Division-level reports highlighting the percentage growth in net sales for the years
-      2021 and 2020.
+      - *Division-Level Growth (2021 vs. 2020):* Division-level reports highlighting the percentage growth in net sales for the 
+      years 2021 and 2020.
       
       - *Product Quantity Analysis:* Identification of the top 5 and bottom 5 products based on quantity sold across all years.
       
